@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shrank.kao\\source\\repos\\AspNetCoreEx\\AspNetCoreEx\\wwwroot\\drrql-6ta1z.gif",
+      "PackagePath": "staticwebassets\\drrql-6ta1z.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspNetCoreEx.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspNetCoreEx.props",
+      "PackagePath": "build\\AspNetCoreEx.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCoreEx.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCoreEx.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspNetCoreEx.props",
+      "PackagePath": "buildTransitive\\AspNetCoreEx.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "oAux2s4rbxDAk/1PY7+UyqspVkjC1tZRGDLXiYeGsqM=",
+  "Source": "AspNetCoreEx",
+  "BasePath": "_content/AspNetCoreEx",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCoreEx\\wwwroot",
+      "Source": "AspNetCoreEx",
+      "ContentRoot": "C:\\Users\\shrank.kao\\source\\repos\\AspNetCoreEx\\AspNetCoreEx\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreEx",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\shrank.kao\\source\\repos\\AspNetCoreEx\\AspNetCoreEx\\wwwroot\\drrql-6ta1z.gif",
+      "SourceId": "AspNetCoreEx",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shrank.kao\\source\\repos\\AspNetCoreEx\\AspNetCoreEx\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreEx",
+      "RelativePath": "drrql-6ta1z.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drrql-6ta1z.gif"
+    }
+  ]
+}

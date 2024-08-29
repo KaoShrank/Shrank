@@ -1,0 +1,14 @@
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\bin\Debug\net8.0\RequestTool.exe
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\bin\Debug\net8.0\RequestTool.deps.json
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\bin\Debug\net8.0\RequestTool.runtimeconfig.json
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\bin\Debug\net8.0\RequestTool.dll
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\bin\Debug\net8.0\RequestTool.pdb
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.AssemblyInfoInputs.cache
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.AssemblyInfo.cs
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.csproj.CoreCompileInputs.cache
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.dll
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\refint\RequestTool.dll
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.pdb
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\RequestTool.genruntimeconfig.cache
+C:\Users\shrank.kao\source\repos\AspNetCoreEx\RequestTool\obj\Debug\net8.0\ref\RequestTool.dll
